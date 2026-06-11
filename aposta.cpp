@@ -67,7 +67,7 @@ int main() {
             cin >> aposta1;
             jogos(jogo);
             calculo(aposta1);
-        } k
+        }
         if (jogador == 1) {
             ptuser1 = pontos;
         } else if (jogador == 2) {
