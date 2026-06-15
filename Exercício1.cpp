@@ -1,6 +1,6 @@
-#include <iostream>; 
+#include <iostream>
 
-using namespace std; 
+using namespace std;
 
 void trocar (int *a, int *b) {
 
